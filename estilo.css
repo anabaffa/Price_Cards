@@ -20,7 +20,6 @@ body{
     margin: 6rem 0;
 }
 .header{
-    text-align: center;
     display: flex;
     background-color: #05080a;
     padding: 1.6rem;
